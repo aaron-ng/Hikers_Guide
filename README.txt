@@ -10,7 +10,9 @@
 =============================================================
 
 
-A relational database for hiking trails. This database keeps track of individual trails and parks, as well as it’s respective geocaches, activities and pictures. This database and front end user interface is a collaborate effort between Quincy Els and Aaron Ng.
+A relational database for hiking trails. This database keeps track of individual trails and parks, as well as its respective geocaches, activities, reviews and pictures. This database also implements a search function that can search depending on a variety of factors including but not limited to: distance from user, trail length, trail type.
+
+This database and front end user interface is a collaborate effort between Quincy Els and Aaron Ng.
 
 
 USED: Apache 2.4 and MySQL 
